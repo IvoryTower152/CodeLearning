@@ -2,10 +2,10 @@
 
 #### 图像分类
 
-- **MAML**
+- **MAML** & **MAML++**
 - **LA-MAML** (done)
 - **PASS** (done)
-- **iCaRL**
+- **iCaRL** (done with measurement scheme)
 
 #### 目标检测及实例分割
 
