@@ -2,21 +2,35 @@
 
 #### 图像分类
 
+- **经典骨干网络**
+
+#### 元学习与连续学习
+
 - **MAML** & **MAML++**
-- **LA-MAML** (done)
-- **PASS** (done)
-- **iCaRL** (done with measurement scheme)
+- **La-MAML** (done)
+- **iCaRL** (done)
 
 #### 目标检测及实例分割
 
-- **Faster RCNN**
+- **Faster R-CNN** (done)
+- **RoI构造**
+- **RPN构造** (done)
 - **FPN构造**
-- **YOLO v5**
+- **YOLO系列**
+- **SSD**
+- **CenterNet**
 
 #### 目标跟踪
 
 - **ATOM** (done)
 - **DiMP**
+- **MD-Net**
+
+#### 数据增强方式
+
+- **Mixup**
+- **Cutmix**
+- **ISDA**
 
 #### 前端网页设计
 
