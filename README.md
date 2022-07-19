@@ -4,38 +4,32 @@
 
 - **经典骨干网络**
 
-#### 元学习与连续学习
+#### 连续学习Baseline制作
 
-- **MAML** & **MAML++**
+- **ER** (done)
+- **GEN** (done)
+- **iCaRL**
 - **La-MAML** (done)
-- **iCaRL** (done)
+- **PASS** (done)
 
 #### 目标检测及实例分割
 
-- **Faster R-CNN** (done)
-- **RoI构造**
-- **RPN构造** (done)
-- **FPN构造**
+- **SSD** (done)
+- **FPN构造** (done)
 - **YOLO系列**
-- **SSD**
-- **CenterNet**
+- **RPN构造** (done)
+- **Faster R-CNN** (done)
+- **MMDetection框架**
 
-#### 目标跟踪
+#### 目标跟踪框架
 
 - **ATOM** (done)
 - **DiMP**
 - **MD-Net**
 
-#### 数据增强方式
+#### 数据增强方法
 
 - **Mixup**
 - **Cutmix**
 - **ISDA**
-
-#### 前端网页设计
-
-- **HTML基础**
-- **Java Script**
-- **Jquery**
-- **Ajax**
 
